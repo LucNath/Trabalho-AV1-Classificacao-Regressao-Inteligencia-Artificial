@@ -250,7 +250,7 @@ Este é um projeto acadêmico, mas sugestões são bem-vindas!
 **Lucas Nathan**
 
 - GitHub: [@LucNath](https://github.com/LucNath)
-- LinkedIn: [Lucas Nathan]([https://linkedin.com/in/-](https://www.linkedin.com/in/lucas-nathan-de-moraes-gomes-a83418242/))
+- LinkedIn: [Lucas Nathan][https://linkedin.com/in/-](https://www.linkedin.com/in/lucas-nathan-de-moraes-gomes-a83418242/)
 
 ## 📜 Licença
 
